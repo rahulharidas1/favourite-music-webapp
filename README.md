@@ -1,2 +1,2 @@
 # favourite-music-webapp
-Created with CodeSandbox
+A ReactJS app that displays some of my favourite music of different genres.
