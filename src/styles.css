@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  padding: 1rem;
+}
+
+.genre-tab {
+  display: inline-block;
+  font-size: large;
+  margin-right: 1rem;
+  margin-bottom: 0.5rem;
+  border: 2px solid black;
+  padding: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+.list {
+  padding: 0;
+}
+
+.list-item {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid gray;
+  margin-bottom: 0.5rem;
+}
+
+.genre-tab:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
